@@ -14,4 +14,4 @@ def extract_text():
     return text
 
 if __name__ == '__main__':
-    app.run(port=3000,debug=True)##mudar conforme necessidades de hospedagem
+    app.run(port=3000,debug=True)##mudar conforme as necessidades de hospedagem
