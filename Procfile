@@ -1,1 +1,1 @@
-web: gunicorn API:Flask
+web: gunicorn api:Flask
